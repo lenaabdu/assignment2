@@ -1,0 +1,31 @@
+
+.jumbotron-fluid{
+background: white;}
+	.navbar {
+		background-color:#66D2C8 ;
+	}
+	.p1{
+
+		margin-right: 0px;
+		font-size: 18px;
+	}
+	.color{
+		color:#66D2C8 ;
+	}
+	ul#services li{
+  list-style: none;
+  padding:16px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+  color:black;
+  font-size: 14px;;
+}
+#main-col{
+	margin-top: 5%;
+}
+.cont{
+	width: 90%;
+	margin-right: 20%;
+
+}
